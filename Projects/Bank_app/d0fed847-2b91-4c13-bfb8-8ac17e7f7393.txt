@@ -1,0 +1,14 @@
+
+                                                                                    Titulescu Bank
+                                                                                    Banca IT-istilor
+Client:
+Cezar
+222
+Cluj
+_____________________________________________________________________________________________________
+
+Balance: 0 RON
+
+Transfer from Razvan 1000.0 RON
+New balance: 1000.0
+

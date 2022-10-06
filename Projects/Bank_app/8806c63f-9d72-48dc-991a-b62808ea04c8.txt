@@ -1,0 +1,26 @@
+
+                                                                                Titulescu Bank
+                                                                                Banca IT-istilor
+Client:
+Name: Razvan
+Phone number: 8989
+Town: Ar
+________________________________________________________________________________________________
+
+2022-07-24 18:08:39     Balance: 0 RON
+
+2022-07-24 18:17:37    Account credited with 1000.0 RON
+New balance: 1000.0
+
+2022-07-24 18:22:34    Account credited with 900.0 RON
+New balance: 900.0
+
+2022-07-24 18:23:51    Account credited with -100.0 RON
+New balance: 800.0
+
+2022-07-24 18:23:51    Transfer to Bogdan -100.0 RON
+New balance: 800.0
+
+2022-07-24 18:29:03    Transfer to Bogdan -120.0 RON
+New balance: 680.0
+

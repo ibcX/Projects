@@ -1,0 +1,6 @@
+Transfer from Bogdan 500.0 RON
+New balance: 4000.0
+
+Transfer to Cezar -1000.0 RON
+New balance: 3000.0
+

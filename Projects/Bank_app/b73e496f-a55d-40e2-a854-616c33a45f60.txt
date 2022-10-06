@@ -1,0 +1,11 @@
+
+                                                                                Titulescu Bank
+                                                                                Banca IT-istilor
+Client:
+Name: B
+Phone number: 2
+Town: c
+________________________________________________________________________________________________
+
+2022-07-24 18:04:31     Balance: 0 RON
+

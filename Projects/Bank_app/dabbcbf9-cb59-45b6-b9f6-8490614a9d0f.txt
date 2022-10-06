@@ -1,0 +1,11 @@
+
+                                                                                Titulescu Bank
+                                                                                Banca IT-istilor
+Client:
+Name: IBC
+Phone number: 12
+Town: CJ
+________________________________________________________________________________________________
+
+2022-07-24 17:48:53.481780 Balance: 0 RON
+
