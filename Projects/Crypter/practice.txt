@@ -1,0 +1,21 @@
+1. Scrie un script care creeaza un fisier text. In fisierul text trebuie sa se regaseasca
+o lista cu toate fisierele dll din directoru C:\Windows\System32
+
+2. Scrie un script care afiseaza cu cate secunde in urma a fost adaugat ceva in folderul Downloads.
+
+3. Scrie o functie care afiseaza un mesaj de salut. Mesajul de salut trebuie sa contina numele utilzatorului
+curent (se obtine cu modulul os) si cati GB (cu doua zecimale) ocupa directorul home. Ex: Salut mdinu! Spatiu utilizat de tine: 4.55 GB
+
+4. Scrie un scrip care face curatenie pe desktop. Cand executi scriptul toate fisierele (mai putin shortcuts)
+vor fi mutate intr-un folder denumit de forma 2022-10-30_11-20 (ora data curenta). Noul folder creat
+va sta intr-un folder definit de utilizator intr-un fisier de configurare. Fisierul de config se gaseste
+pe acelasi nivel ca si scriptul si contine pe prima linie calea catre folderul parinte al arhivei.
+
+5. Afiseaza cate ore au trecut din acest an.
+6. Afiseaza cate zile au trecut de la nasterea ta.
+
+7. PROIECT: Downloads folder watcher
+Pe acelasi nivel cu directorul Downloads se creeaza un director DownloadsClean, in el se creeaza
+folderele Music, Pictures, Videos, Documents, Executables, Others. (automat la pornirea scriptului)
+Scriptul urmareste folderul Downloads al uilizatorul curet.
+La fiecare modificare se citeste continutul si apoi se face clasificarea si mutarea.
